@@ -1,0 +1,14 @@
+{
+  "name": "mailsender",
+  "version": "1.0.0",
+  "description": "nodejs Email send Integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ish",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.3"
+  }
+}
